@@ -1,10 +1,11 @@
 # Acquia Build Steps Definitions
 
 build-steps:
-  - composer-update
-    type: script
+  build:
     script:
-      - composer update
+      - "composer update"
+    type: script
+
 variables:
 
 ssh-keys:
