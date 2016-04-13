@@ -1091,7 +1091,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/entity_embed.git",
-                "reference": "509fc57267e80371581ba8a65b3a4b68fe9add3e"
+                "reference": "b8baa3dd572c5f9ff79d780902890682cec1b92b"
             },
             "require": {
                 "drupal/core": "8.*",
@@ -1111,7 +1111,7 @@
             ],
             "description": "Allows entities to be embedded using a text editor.",
             "homepage": "https://www.drupal.org/project/entity_embed",
-            "time": "2016-03-29 16:49:13"
+            "time": "2016-04-13 17:19:53"
         },
         {
             "name": "drupal/features",
