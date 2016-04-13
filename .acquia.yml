@@ -3,6 +3,7 @@
 build-steps:
   - composer-update:
       script:
+        - "composer install"
         - "composer update"
       type: script
   - post-build:

@@ -728,16 +728,16 @@
         },
         {
             "name": "drupal-composer/drupal-scaffold",
-            "version": "1.3.1",
+            "version": "1.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal-composer/drupal-scaffold.git",
-                "reference": "13bd565b1468c27b97060f3c62175d12a5e1db7d"
+                "reference": "594e0cba2ad3c494da39a8cca0408ac9e3300f52"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal-composer/drupal-scaffold/zipball/13bd565b1468c27b97060f3c62175d12a5e1db7d",
-                "reference": "13bd565b1468c27b97060f3c62175d12a5e1db7d",
+                "url": "https://api.github.com/repos/drupal-composer/drupal-scaffold/zipball/594e0cba2ad3c494da39a8cca0408ac9e3300f52",
+                "reference": "594e0cba2ad3c494da39a8cca0408ac9e3300f52",
                 "shasum": ""
             },
             "require": {
@@ -770,7 +770,7 @@
                 "GPL-2.0+"
             ],
             "description": "Composer Plugin for updating the Drupal scaffold files when using drupal/core",
-            "time": "2016-04-11 07:58:02"
+            "time": "2016-04-13 15:46:44"
         },
         {
             "name": "drupal/acquia_connector",
