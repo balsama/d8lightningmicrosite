@@ -9,4 +9,4 @@
 /docroot/sites/default/files
 
 # Ignore Composer-managed dependencies.
-vendor/
+# vendor/
