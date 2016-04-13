@@ -2,6 +2,10 @@
 
 build-steps:
   - composer-update:
-      script: 
+      script:
         - "composer update"
+      type: script
+  - post-build:
+      script:
+        - "chmod 755 %SOURCE_DIR%"
       type: script
