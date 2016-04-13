@@ -10,3 +10,4 @@
 
 # Ignore Composer-managed dependencies.
 # vendor/
+vendor/drush

@@ -13,7 +13,9 @@
         "composer/installers": "^1.0",
         "drupal-composer/drupal-scaffold": "^1.2",
         "cweagans/composer-patches": "dev-master",
-        "drupal/lightning": "8.1.*"
+        "drupal/lightning": "8.1.*",
+        "drupal/pathauto": "8.*",
+        "drupal/jethro": "8.1.2"
     },
     "repositories": [
         {
