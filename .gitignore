@@ -11,3 +11,6 @@
 # Ignore Composer-managed dependencies.
 # vendor/
 vendor/drush
+vendor/autoload.php
+vendor/composer/autoload_real.php
+
