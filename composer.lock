@@ -1066,7 +1066,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/embed.git",
-                "reference": "a384d821650c83ad4aa2e157ca1e338f5f2c0ee8"
+                "reference": "294666ad05ad930003308a5fcd1282cdeb63833a"
             },
             "require": {
                 "drupal/core": "8.*"
@@ -1083,7 +1083,7 @@
             ],
             "description": "Provides a framework for different types of embeds in text editors.",
             "homepage": "https://www.drupal.org/project/embed",
-            "time": "2016-04-11 16:00:42"
+            "time": "2016-04-14 01:03:52"
         },
         {
             "name": "drupal/entity_embed",
@@ -1091,7 +1091,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupal.org/project/entity_embed.git",
-                "reference": "b8baa3dd572c5f9ff79d780902890682cec1b92b"
+                "reference": "a40f556feaf921980f69d9fe4ccbc1ef2e325edb"
             },
             "require": {
                 "drupal/core": "8.*",
@@ -1111,7 +1111,7 @@
             ],
             "description": "Allows entities to be embedded using a text editor.",
             "homepage": "https://www.drupal.org/project/entity_embed",
-            "time": "2016-04-13 17:19:53"
+            "time": "2016-04-14 05:38:14"
         },
         {
             "name": "drupal/features",
